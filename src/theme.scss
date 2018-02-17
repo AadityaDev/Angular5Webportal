@@ -1,0 +1,3 @@
+@import '~@angular/material/theming';
+@include mat-core();
+$custom-primary: mat-palette($mat-amber);
